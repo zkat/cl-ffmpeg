@@ -1,0 +1,4 @@
+About
+-----
+
+Included are CFFI bindings for FFMPEG (avcodec, avformat, swscale).
